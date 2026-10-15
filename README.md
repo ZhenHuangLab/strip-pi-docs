@@ -1,3 +1,5 @@
+> Development and releases have moved to [pi-extensions/packages/strip-pi-docs](https://github.com/ZhenHuangLab/pi-extensions/tree/main/packages/strip-pi-docs). Please use the new repository for changes and issues.
+
 # strip-pi-docs
 
 [![npm version](https://img.shields.io/npm/v/strip-pi-docs)](https://www.npmjs.com/package/strip-pi-docs)
